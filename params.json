@@ -1,0 +1,52 @@
+[
+  {
+    "ParameterKey": "TagValue1",
+    "ParameterValue": "3tierApp"
+  },
+  {
+    "ParameterKey": "TagValue2",
+    "ParameterValue": "Production"
+  },
+  {
+    "ParameterKey": "CIDR",
+    "ParameterValue": "10.0.0.0/16"
+  },
+  {
+    "ParameterKey": "PublicCidrBlock1",
+    "ParameterValue": "10.0.0.0/24"
+  },
+  {
+    "ParameterKey": "PublicCidrBlock2",
+    "ParameterValue": "10.0.1.0/24"
+  },
+  {
+    "ParameterKey": "PublicSubnet1AZ",
+    "ParameterValue": "us-west-2a"
+  },
+  {
+    "ParameterKey": "PublicSubnet2AZ",
+    "ParameterValue": "us-west-2b"
+  },{
+    "ParameterKey": "PrivateCidrBlock1",
+    "ParameterValue": "10.0.2.0/24"
+  },{
+    "ParameterKey": "PrivateCidrBlock2",
+    "ParameterValue": "10.0.3.0/24"
+  },
+  {
+    "ParameterKey": "PrivateSubnet1AZ",
+    "ParameterValue": "us-west-2a"
+  },
+  {
+    "ParameterKey": "PrivateSubnet2AZ",
+    "ParameterValue": "us-west-2b"
+  },
+  {
+    "ParameterKey": "KeyName",
+    "ParameterValue": "nitish_aws"
+  },
+  {
+    "ParameterKey": "InstanceType",
+    "ParameterValue": "t2.micro"
+  }
+]
